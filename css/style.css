@@ -3321,6 +3321,7 @@ button.mfp-arrow {
 .bauen-blog3 .post-img img {
     -webkit-transition: all .5s;
     transition: all .5s;
+    
 }
 .bauen-blog3 .post-cont {
     padding: 30px 0;
@@ -3820,6 +3821,7 @@ hr.border-2 {
 .main-footer .abot .social-icon {
     text-align: center;
     margin-bottom: 20px;
+    width: 100px;
 }
 .main-footer .abot .social-icon a {
     width: 40px;
@@ -4981,4 +4983,43 @@ hr.border-2 {
     .text-right {
         text-align: center;
     }
+}
+.about_us {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.about_conter_box {
+    padding: 50px 0;
+}
+
+.about_conter_box h3 {
+    font-size: 24px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.about_us.home {
+    margin-top: 100px;
+    background-color: #B3B3B3;
+}
+
+
+.img.icanosnNEsbox {
+    max-width: 80px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.about_conter_box {
+    padding: 50px 0;
+    display: flex;
+    margin: auto;
+    gap: 22px;
+    color: #000;
+}
+
+.about_conter.home {
+    display: flex;
+    flex-wrap: wrap;
 }
