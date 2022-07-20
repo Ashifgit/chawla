@@ -429,12 +429,12 @@ blockquote cite:before {
     margin: 0 3px;
     border-radius: 50%;
     background: transparent;
-    border: 1px solid #999;
+    border: 1px solid #000;
 }
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
     background: transparent;
-    border: 1px solid #b19777;
+    border: 1px solid #000;
 }
 
 
