@@ -5085,3 +5085,6 @@ section.about.heading {
 h2.text-center {
     font-size: 78px;
 }
+.col-md-15.animate-box.fadeInUp.animated {
+    margin-left: 50px;
+}
