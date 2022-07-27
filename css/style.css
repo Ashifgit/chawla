@@ -581,7 +581,7 @@ blockquote cite:before {
 .logo-wrapper {
     float: left;
     background: #fff;
-    padding: 30px 50px;
+    padding: 30px 10px;
 }
 .logo-wrapper .logo h2 {
     font-family: 'Oswald', sans-serif;
@@ -613,7 +613,7 @@ blockquote cite:before {
 }
 .logo {
     padding: 0;
-    width: 150px;
+    width: 190px;
     text-align: center;
 }
 .logo-img {
@@ -3821,7 +3821,7 @@ hr.border-2 {
 .main-footer .abot .social-icon {
     text-align: center;
     margin-bottom: 20px;
-    width: 100px;
+    width: 150px;
 }
 .main-footer .abot .social-icon a {
     width: 40px;
