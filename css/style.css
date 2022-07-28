@@ -5101,3 +5101,10 @@ h2.text-center {
 .owl-carousel.owl-theme.owl-loaded.owl-drag {
     overflow: hidden;
 }
+
+.about-img {
+    margin-top: -180px;
+}
+h2.text-left {
+    font-size: 60px;
+}
