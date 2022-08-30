@@ -613,7 +613,7 @@ blockquote cite:before {
 }
 .logo {
     padding: 0;
-    width: 250px;
+    width: 253px;
     text-align: center;
 }
 .logo-img {
@@ -1211,7 +1211,7 @@ blockquote cite:before {
 .about .about-img .img:before {
     content: '';
     position: absolute;
-    top: 30px;
+    top: 0;
     left: 0;
     right: 45px;
     bottom: 0;
@@ -5080,7 +5080,7 @@ section.about.heading {
     margin: auto;
 }
 .about.dis {
-    margin-left: 300px;
+    text-align: center;
 }
 h2.text-center {
     font-size: 78px;
