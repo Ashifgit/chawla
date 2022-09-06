@@ -1555,9 +1555,10 @@ blockquote cite:before {
 /* ======= Services style ======= */
 .services {}
 .services .item {
-    padding: 60px 30px;
+    /* padding: 60px 30px; */
     margin-bottom: 30px;
     position: relative;
+    
 }
 .services .item:hover {
     background: #f4f4f4;
