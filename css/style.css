@@ -391,7 +391,7 @@ blockquote cite:before {
   margin-bottom: 60px !important;
 }
 .mb-90 {
-  margin-bottom: 90px !important;
+  margin-bottom: 1px !important;
 }
 .pb-0 {
   padding-bottom: 0 !important;
@@ -1221,7 +1221,7 @@ blockquote cite:before {
     position: relative;
     z-index: 2;
     background: #272727;
-    margin-top: 200px;
+    /* margin-top: 200px; */
 }
 .about-img-2 {
     position: relative
@@ -5105,9 +5105,7 @@ h2.text-center {
     overflow: hidden;
 }
 
-.about-img {
-    margin-top: -180px;
-}
+
 h2.text-left {
     font-size: 60px;
 }
