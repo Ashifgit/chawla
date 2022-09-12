@@ -5109,3 +5109,6 @@ h2.text-center {
 h2.text-left {
     font-size: 60px;
 }
+.owl-carousel.owl-theme.owl-loaded {
+    margin-bottom: 52px;
+}
