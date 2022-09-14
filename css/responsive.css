@@ -71,10 +71,13 @@
         font-size: 60px;
     }
      .content_map_img.about {
-        width: 320px
+        width: 365px
     } 
     .about-img {
         margin-top: 20px;
+    }
+    section#content_map {
+        padding: 0;
     }
   
     
