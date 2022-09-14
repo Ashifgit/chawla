@@ -7,9 +7,7 @@
     
     .mb-90 {
         margin-bottom: 1px !important;
-        
-        
-    
+           
 
 }
 @media only screen and (max-width: 900px){
@@ -30,7 +28,7 @@
     .header {
         min-height: auto;
         overflow: hidden;
-        height: 470px;
+        height: 550px;
     } 
     
     .slider .item,
@@ -67,20 +65,18 @@
         padding-right: 20px;
      }
     header.header.slider-fade {
-        margin-top: -70px;
+        margin-top: -100px;
     }
     h2.text-center {
         font-size: 60px;
     }
      .content_map_img.about {
-        width: 300px;
+        width: 320px
     } 
     .about-img {
         margin-top: 20px;
     }
-    .bauen-project-wrap h3 {
-        font-size: 10px; 
-    }
+  
     
    
 
